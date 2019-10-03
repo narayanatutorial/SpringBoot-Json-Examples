@@ -1,0 +1,29 @@
+{
+  "name": "Narayanaswamy",
+  "age": 35,
+  "position": [
+    "Founder",
+    "CTO,",
+    "Subscriber",
+    "Author"
+  ],
+  "skill": [
+    "Java",
+    "Spring",
+    "Hibernate",
+    "Forgerock",
+    "Webhosting",
+    "Oracle",
+    "Trainer",
+    "SpringBoot",
+    "SpringBatch"
+  ],
+  "salary": {
+    "2019": 17000,
+    "2018": 16000,
+    "2017": 15000,
+    "2016": 14000,
+    "2015": 13000,
+    "2014": 12000
+  }
+}

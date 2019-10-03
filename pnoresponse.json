@@ -1,0 +1,27 @@
+{
+    "results": {
+        "getAccountInfo": [
+            {
+                "itCertifiedFlag": "Y",
+                "rootAccountId": "700031",
+                "statusCd": "I"
+            },
+            {
+                "itCertifiedFlag": "Y",
+                "rootAccountId": "700032",
+                "statusCd": "I"
+            }
+        ]
+    },
+    "status": {
+        "code": "200",
+        "message": "Success"
+    },
+    "executionInfo": {
+        "startTime": "1569331113192",
+        "endTime": "1569331113195",
+        "timeTaken": "3",
+        "hostName": "10-119-16-72.ebiz.verizon.com",
+        "vmId": "1"
+    }
+}
